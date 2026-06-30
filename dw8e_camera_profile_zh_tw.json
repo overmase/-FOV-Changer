@@ -16,10 +16,10 @@
   "val_guard_eye_height": "130",
   "addr_guard_eye_tilt": "0x902824",
   "val_guard_eye_tilt": "0",
-  "addr_bugfix1": "0xD6B71C",
-  "val_bugfix1": "5000",
-  "addr_bugfix2": "0xD6B728",
-  "val_bugfix2": "150000",
-  "addr_bugfix3": "0xD6B710",
-  "val_bugfix3": "40000"
+  "addr_bugfix1": "",
+  "val_bugfix1": "",
+  "addr_bugfix2": "",
+  "val_bugfix2": "",
+  "addr_bugfix3": "",
+  "val_bugfix3": ""
 }
